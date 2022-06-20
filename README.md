@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuljonnada&label=Profile%20views&color=0e75b6&style=flat" alt="rahuljonnada" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahuljonnada](https://github.com/rahuljonnada)
+- 👨‍💻 All of my projects are available at [https://github.com/rahuljonnada](https://github.com/rahuljonnada) 
 
 - 📫 How to reach me **jonnada15@gmail.com**
 
 - ⚡ Fun fact **I Think I'm Funny XD**
+
+- My [https://drive.google.com/file/d/1dibMBw3cw59fzPa76ic7SDrwnwL5z3kh/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
