@@ -9,8 +9,7 @@
 
 - ⚡ Fun fact **I Think I'm Funny XD**
 
--![edit-text-file](https://user-images.githubusercontent.com/63355557/174640281-9d9cdd30-fe60-44b4-830e-b3e23b24f53e.png)
-My [Resume](https://drive.google.com/file/d/1dibMBw3cw59fzPa76ic7SDrwnwL5z3kh/view?usp=sharing)
+- **My** [Resume](https://drive.google.com/file/d/1dibMBw3cw59fzPa76ic7SDrwnwL5z3kh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
