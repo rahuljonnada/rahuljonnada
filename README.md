@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I Think I'm Funny XD**
 
-- **My** [Resume](https://drive.google.com/file/d/1dibMBw3cw59fzPa76ic7SDrwnwL5z3kh/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1dibMBw3cw59fzPa76ic7SDrwnwL5z3kh/view?usp=sharing) | [Portfolio](https://jonnada15.wixsite.com/rahul-jonnada)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
