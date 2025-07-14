@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Rahul Jonnada</h1>
 <h3 align="center">I am a Data Detective <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/48637894-36d7-4cdb-870b-0d7acb440edd" /> </h3>
-<h3 align="center">Technically a Data Analyst - Passionate about turning complex data into clear, actionable insights.
-Always learning. Always curious.
+<h3 align="center">Technically a Data Analyst - Passionate about turning complex data into clear, actionable insights. </h3>
+<h3 align="center">Always learning. Always curious.
  </h3>
 
 
