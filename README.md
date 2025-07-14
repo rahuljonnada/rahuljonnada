@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Rahul Jonnada</h1>
-<h3 align="center">I am a data detective <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/48637894-36d7-4cdb-870b-0d7acb440edd" />
+<h3 align="center">I am a data detective <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/48637894-36d7-4cdb-870b-0d7acb440edd" />
 technically a Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuljonnada&label=Profile%20views&color=0e75b6&style=flat" alt="rahuljonnada" /> </p>
