@@ -12,9 +12,7 @@
 
 - 📫 How to reach me **jonnada15@gmail.com** 
 
-- ⚡ Fun fact **I Think I'm Funny XD**
-
-- [Portfolio](https://jonnada15.wixsite.com/rahul-jonnada)
+- ⚡ [Portfolio](https://jonnada15.wixsite.com/rahul-jonnada)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
