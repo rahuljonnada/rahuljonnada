@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Rahul Jonnada</h1>
 <h3 align="center">I am a Data Detective <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/48637894-36d7-4cdb-870b-0d7acb440edd" /> </h3>
-<h3 Technically a Data Analyst <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/62f40ccb-22c4-46f9-b5dc-2c800b2123f6" /> </h3>
+<h3 align="center">Technically a Data Analyst <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/62f40ccb-22c4-46f9-b5dc-2c800b2123f6" /> </h3>
 
 
 
